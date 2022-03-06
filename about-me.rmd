@@ -2,7 +2,7 @@
 title: "about-me"
 author: "Kalyan Vadrevu"
 date: '2022-03-06'
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
